@@ -37,4 +37,4 @@ The launching on Windows is the similar.
 
 # Project goals
 
-Code was written for educational purposes. In the framework of web development training course ― [DEVMAN.org](https://devman.org)
+The code is written for educational purposes. Training course for web-developers ― [DEVMAN.org](https://devman.org)
